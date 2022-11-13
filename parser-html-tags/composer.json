@@ -1,0 +1,16 @@
+{
+    "name": "meloy/parser-html-tags",
+    "autoload": {
+        "psr-4": {
+            "Meloy\\ParserHtmlTags\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vardan Meloyan",
+            "email": "meloyan.1992@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
